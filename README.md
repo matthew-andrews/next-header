@@ -1,4 +1,4 @@
 next-header (deprecated)
 ===========
 
-Moved here:- http://matthew-andrews.github.io/next-header/
+Moved here:- https://github.com/Financial-Times/next-header/
